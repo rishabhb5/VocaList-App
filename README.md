@@ -1,6 +1,7 @@
 # VocaList App
 
 Become a "Vocalist" of productivity - use your voice to manage your tasks!
+Interface with your life's tasks using your Voice.
 
 Journey:
 On-Device Storage using Swift Data -> On-Device Voice Transcription using OpenAI's open source model: Whisper
