@@ -1,4 +1,4 @@
-# VocaList App
+# VocaList AI Voice App
 
 Become a "Vocalist" of productivity - use your voice to manage your tasks!
 Interface with your life's tasks using your Voice.
