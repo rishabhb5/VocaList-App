@@ -16,4 +16,4 @@ MacOS26 Beta with XCode 26 - Integrated AI IDE powered by GPT5 by default - like
 <img width="2595" height="1406" alt="Screenshot 2025-08-22 at 5 55 17 PM" src="https://github.com/user-attachments/assets/61ccb9ed-771e-4d0e-81f6-6192d2610aa7" />
 
 Cursor
-<img width="1719" height="1409" alt="Screenshot 2025-08-22 at 6 01 11 PM" src="https://github.com/user-attachments/assets/36ef650c-a0d9-4111-b91a-8c8e4a763f3b" />
+<img width="2079" height="1406" alt="Screenshot 2025-08-22 at 6 02 10 PM" src="https://github.com/user-attachments/assets/577df505-5613-4b53-9b4b-5b0f5f9da2d9" />
